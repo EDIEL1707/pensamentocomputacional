@@ -1,0 +1,67 @@
+*{
+     padding: 0;
+    margin: 0;
+}
+/*header*/
+
+header{
+background: (red)
+padding-top: 15px;
+}
+
+.cabecalho{
+   position: relative;
+   width: 940px;
+  margin: 0 auto;
+}
+
+#logo:hover{
+   transition: 1s;
+   transform: scale(1.1);
+}
+
+nav{
+  position: absolute;
+    top:110px;
+    right: 0;
+}
+
+nav li{
+    display: inline:
+    margin-left 15px
+
+}
+nav a{
+   color: black;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.titulo-principal{
+    color: red;
+    text-align: center;
+    font-size: 32px;
+     text-transform: uppercase;
+}
+
+body{
+    background-color: red;
+}
+p{
+    margin-left: 20px;
+    font-size: 25px;
+   text-align: justify;
+}
+h2,h3{
+   text-align: center;
+   font-size: 30px;
+   text-transform: uppercase;
+}
+iframe{
+    margin-left: 500px;
+}
+li{
+   margin-left: 40px;
+   text-transform: uppercase;
+   font-size: 25px;
+}
